@@ -1,3 +1,4 @@
+//created by paramjeet kaur
 import React from 'react';
 import NavBar from './Navbar';
 import Footer from './Footer';
